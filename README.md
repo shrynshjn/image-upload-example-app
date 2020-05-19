@@ -11,7 +11,7 @@ android/app/src/main/AndroidManifest.xml
 ## Setting up  
 
 clone this repository  
-run yarn install or npm install into the cloned folder  
+run `yarn install` or `npm install` into the cloned folder  
 once the dependencies are installed, set the baseurl variable in App.js to your servers url/ip address  
 in two separate terminals write
 
